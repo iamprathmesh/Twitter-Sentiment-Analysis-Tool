@@ -31,7 +31,7 @@ Punctuation
 - Machine Learning Approaches :  
 At times, rule-based systems might not be as adaptable or scalable, and due to the intricate nature of language and its context-dependent meanings, these systems may not always grasp the subtleties in how language is used. To overcome these limitations, machine learning techniques can be applied.  
           
--Deep Learning Approaches :  
+- Deep Learning Approaches :  
 Using deep learning is another level higher: these models have achieved state-of-the-art results in sentiment analysis by capturing complex patterns in data. These involves uses things such as Convolutionary Neural Networks (CNN), Transformers and BERT.
 
 # step-by-step instructions performed :
@@ -48,3 +48,5 @@ Using deep learning is another level higher: these models have achieved state-of
 - Transform the test data  
 - Initialize the logistic regression classifier and train it  
 - Use the trained classifier to predict the 5 given tweets and determine if they are positive or negative  
+
+![image](https://github.com/iamprathmesh/Twitter-Sentiment-Analysis-Tool/assets/86964450/d800e964-1e20-4927-a6ae-bd0933f72751)
