@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis-Tool
+# Twitter-Sentiment Analysis Tool
 Sentiment analysis, often referred to as opinion mining, is a subfield of natural language processing and data analysis that aims to determine the sentiment behind a series of words, used to gain an understanding of the attitudes, opinions, and emotions expressed within an online mention.
 
 # Types of Sentiment Analysis
